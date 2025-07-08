@@ -1,0 +1,16 @@
+{
+  "whitelisted": {
+    "cuddlemeplslol": {
+      "tag": {
+        "text": "LUNAR DEV",
+        "color": [255, 255, 0]
+      }
+    },
+    "databasehosting": {
+      "tag": {
+        "text": "LUNAR DEV",
+        "color": [0, 255, 255]
+      }
+    }
+  }
+}
