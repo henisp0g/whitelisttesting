@@ -1,6 +1,6 @@
 {
   "whitelisted": {
-    "databasehosting": {
+    "example": {
       "tag": {
         "text": "LUNAR DEV",
         "color": "#FFFF00"
@@ -10,6 +10,12 @@
       "tag": {
         "text": "LUNAR DEV",
         "color": "#00FFFF"
+      }
+    },
+    "databasehosting": {
+      "tag": {
+        "text": "Top 1 Assists, MOTM, KOs, Goals, Saves, Hat Tricks and Games",
+        "color": "#fbff00"
       }
     }
   }
